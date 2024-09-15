@@ -1,5 +1,5 @@
 
 function Home(){
-    return <h1>Bem vindo ao TabNews(clone)</h1>
+    return <h1>Olha só, estou atualizando novamente!</h1>
 }
 export default Home
